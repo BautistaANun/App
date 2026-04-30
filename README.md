@@ -35,7 +35,7 @@
 ### 1. Clonar el repositorio
 
 ```bash
-git clone TU_URL
+git clone https://github.com/BautistaANun/App.git
 cd app 
 ```
 
