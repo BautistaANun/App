@@ -84,23 +84,11 @@ http://localhost:5173
 
 ## Screenshots
 
-### App funcionando en frontend
-![App](./screenshot1.png)
+### Screenshot 1: App funcionando en frontend
+### Screenshot 2: App funcionando en backend
+### Screenshot 3: Inputs llenos para agregar tareas
+### Screenshot 4: Cambios de estado (Completo/Incompleto)
+### Screenshot 5: Vista desde el backend luego de interactuar con las tareas
+### Screenshot 6: Imagen post eliminación de tareas mediante el botón "Eliminar"
+### Screenshot 7: Actualización del backend luego de eliminar tareas
 
-### App funcionando en backend
-![App](./screenshot2.png)
-
-### Inputs llenos para agregar tareas
-![Crear](./screenshot3.png)
-
-### Cambios de estado (Completo/Incompleto)
-![Estado](./screenshot4.png)
-
-### Vista desde el backend luego de interactuar con las tareas
-![Backend](./screenshot5.png)
-
-### Tareas eliminadas mediante el botón "Eliminar"
-![Eliminar](./screenshot6.png)
-
-### Actualización del backend luego de eliminar tareas
-![Backend](./screenshot7.png)
