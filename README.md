@@ -80,3 +80,19 @@ http://localhost:5173
 ## Consideraciones
 - Los datos se almacenan en memoria (se pierden al reiniciar el servidor)
 - No hay base de datos persistente
+
+
+## Screenshots
+
+
+![App](./screenshot 1.png)
+
+![](./screenshot 2.png)
+
+![](./screenshot 3.png)
+
+
+![Extra1](./screenshot 4.png)
+![Extra2](./screenshot 5.png)
+![Extra3](./screenshot 6.png)
+![Extra4](./screenshot 7.png)
