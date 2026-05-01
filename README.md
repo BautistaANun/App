@@ -103,19 +103,4 @@ http://localhost:5173
 ![Eliminar](./screenshot6.png)
 
 ### Actualización del backend luego de eliminar tareas
-![Backend](./screenshot7.png)## Screenshots
-
-### App funcionando
-![App](./screenshot1.png)
-
-### Crear tarea
-![Crear](./screenshot2.png)
-
-### Tarea completada
-![Completa](./screenshot3.png)
-
-### Más funcionalidades
-![Extra1](./screenshot4.png)
-![Extra2](./screenshot5.png)
-![Extra3](./screenshot6.png)
-![Extra4](./screenshot7.png)
+![Backend](./screenshot7.png)
