@@ -1,6 +1,6 @@
 function TaskItem({ task, onDelete, onToggle }) {
   return (
-      <li key={task.id}>
+      <li>
       <strong>{task.title}</strong> <br />
      {task.description} <br />
       Estado: {task.completed ? "Completo" : "Incompleto"} <br />
