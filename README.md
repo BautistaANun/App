@@ -1,8 +1,6 @@
-# App
+# Task Manager App 
 
-- Aplicación de lista de tareas (CRUD) desarrollada como challenge técnico.
-
-- Permite crear, visualizar, actualizar y eliminar tareas mediante una API REST y una interfaz web.
+- Aplicación fullstack desarrollada con React y Express que implementa operaciones CRUD mediante una API REST.
 
 ---
 
@@ -39,7 +37,7 @@ git clone https://github.com/BautistaANun/App.git
 cd app 
 ```
 
-### 2. Ejecutar backend
+### 2. Ejecutar backend en una terminal
 
 ```bash
 cd backend
@@ -51,7 +49,7 @@ npm run dev
 El servidor va a correr en:
 http://localhost:3000
 ```
-### 3. Ejecutar frontend
+### 3. Ejecutar frontend abriendo otra terminal distinta
 
 ```bash
 cd frontend
@@ -64,7 +62,7 @@ http://localhost:5173
 ```
 
 ## API Endpoints
-- GET /api/tasks: -> obtener tareas
+- GET /api/tasks -> obtener tareas
 - POST /api/tasks -> crear tarea
 - PUT /api/tasks/:id -> actualizar tarea
 - DELETE /api/tasks/:id -> eliminar tarea
@@ -80,6 +78,10 @@ http://localhost:5173
 ## Consideraciones
 - Los datos se almacenan en memoria (se pierden al reiniciar el servidor)
 - No hay base de datos persistente
+
+## Requisitos
+- Node.js instalado
+- npm
 
 
 ## Screenshots
